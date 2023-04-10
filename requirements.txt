@@ -1,9 +1,2 @@
 gunicorn
 Flask==2.2.2
-flask-mongoengine==1.0.0
-Flask-PyMongo==2.3.0
-Flask-WTF==1.1.1
-
-setuptools<58.0
-pyaudio==0.2.11
-python-dotenv
